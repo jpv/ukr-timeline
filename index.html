@@ -5,8 +5,7 @@
     <title>Ukraine - Russie - Timeline - Pour comprendre et se forger SON opinion</title>
 </head>
 <body>
-<link title="timeline-styles" rel="stylesheet"
-      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<link title="timeline-styles" rel="stylesheet"  href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
 <!-- 2 -->
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
@@ -22,17 +21,23 @@
     // and the element must have CSS styling to give it width and height
     // optionally, a third argument with configuration options can be passed.
     // See below for more about options.
-  //  timeline = new TL.Timeline('timeline-embed',
-   //     'https://docs.google.com/spreadsheets/d/1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI/pubhtml');
+    timeline = new TL.Timeline('timeline-embed',
+        'https://docs.google.com/spreadsheets/d/134w9am9v5TyC0Wx9EpWybexSWBevgz9kBKKZ-3BfOY4/edit#gid=0');
         // make_the_json() is some javascript function you've written
         // which creates the appropriate JSON configuration
-    fetch('tl.json').then(async resp => {
+/*
+    fetch('https://drive.google.com/file/d/1H6a-aBucHSFmULe0I5pf2SaIiuz4w1Vp/view?usp=sharing').then(async resp => {
         if (resp.status === 200) {
-            const json = await resp.json()
+            const b = await resp.text()
+            console.log(b)
+            json = JSON.parse(b)
             window.timeline = new TL.Timeline('timeline-embed', json);
-        }
-    }).catch(console.log);
+            return
 
+        }
+        throw new Error("Pas de json")
+    }).catch(console.log);
+*/
 </script>
 </body>
 </html>
