@@ -1,0 +1,54 @@
+{
+  "title": {
+    "media": {
+      "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+      "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+      "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+    },
+    "text": {
+      "headline": "L'Ukraine et La Russie",
+      "text": "<p>Le dernier fantôme de l'implosion de l'URSS....</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B9_%D1%82%D1%83%D1%80_2010_%D0%BF%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%D1%85-en.png/2560px-%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B9_%D1%82%D1%83%D1%80_2010_%D0%BF%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%D1%85-en.png",
+        "caption": "Election Présidentielles Ukraine 2010 - Candidat pro-russe (bleu) versus Candidate pro-Otan/Ue (en rouge)",
+        "credit": "Wikipedia:<a href='https://commons.wikimedia.org/wiki/User:Vasyl%60_Babych'>Vasyl` Babych</a><br/>"
+      },
+      "start_date": {
+        "day": "27",
+        "month": "5",
+        "year": "1794"
+      },
+      "end_date": {
+        "month": "2",
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Fondation d'Odessa Оде́са / Оде́сса",
+        "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B9_%D1%82%D1%83%D1%80_2010_%D0%BF%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%D1%85-en.png/2560px-%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B9_%D1%82%D1%83%D1%80_2010_%D0%BF%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%D1%85-en.png",
+        "caption": "Election Présidentielles Ukraine 2010 - Candidat pro-russe (bleu) versus Candidate pro-Otan/Ue (en rouge)",
+        "credit": "Wikipedia:<a href='https://commons.wikimedia.org/wiki/User:Vasyl%60_Babych'>Vasyl` Babych</a><br/>"
+      },
+      "start_date": {
+        "month": "1",
+        "year": "2010"
+      },
+      "end_date": {
+        "month": "2",
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Des fractures politiques, linguistiques, historiques et territoriales incompatibles avec un Etat-Nation",
+        "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+      }
+    }
+  ]
+}
